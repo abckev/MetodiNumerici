@@ -1,2 +1,2 @@
 # MetodiNumerici
-Esercitazione Metodi Numerici
+Progetto d'esame di metodi numerici per l'algebra lineare
